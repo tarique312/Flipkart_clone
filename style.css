@@ -543,6 +543,7 @@ footer{
     flex-direction: column;
     justify-content: space-evenly;
     margin: 0 40px;
+    text-align: center;
 }
 
 .foot-panel1 ul li{

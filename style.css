@@ -203,7 +203,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin: 15px;
+    margin: auto;
 }
 
 .ibox-1 {
@@ -353,7 +353,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin: 15px;
+    margin: auto;
 }
 
 .ibox-1 {
@@ -537,13 +537,13 @@ footer{
 }
 
 .foot-panel1 ul{
+    text-align: center;
     display: flex;
     align-items: center;
     list-style: none;
     flex-direction: column;
     justify-content: space-evenly;
     margin: 0 40px;
-    text-align: center;
 }
 
 .foot-panel1 ul li{
